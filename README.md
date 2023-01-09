@@ -97,7 +97,4 @@ Tema valorează jumătate din punctajul de pe laborator și se va nota de la 0 l
 1p lizibilitate, stil, structură, comentarii
 3p susținerea temei și validarea conceptelor de poo în ultimul laborator de POO
 
-Tema trebuie încărcată pe Github, într-un repository private la care să îmi dați acces (danielcdi , chisdanielioan@gmail.com) până la data de 7 Ianuarie (23:59). 
-
-Pe Github trebuie să se afle codul sursă, toate fișierele CSV, capturi de ecran cu codul rulând.
 
